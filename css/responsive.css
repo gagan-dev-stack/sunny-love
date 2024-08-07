@@ -1,0 +1,90 @@
+@media screen and (max-width: 1920px){
+
+}
+
+@media screen and (max-width: 1440px){
+
+}
+
+
+@media screen and (max-width: 1200px){
+ 
+}
+@media screen and (max-width: 1024px){
+.couple_pic {
+    text-align: center;
+}
+.about_content h1 {
+    font-size: 36px;
+    padding: 9px 0 0;
+}
+footer .form__input {
+    margin-bottom: 20px;
+}
+}
+@media screen and (max-width: 991px){
+footer .form__input {
+    margin-bottom: 20px;
+}
+}
+@media screen and (max-width: 767px){
+.dil {
+    height: 335px;
+    margin-top: 176px;
+    max-width: unset;
+    background: rgba(227, 3, 0, 0.51);
+    border-radius: 10px 10px 10px 10px;
+}
+.nav_main ul li a {
+    width: 100%;
+    display: inline-block;
+    padding: 5px 4px 5px 10px;
+    background: rgba(0, 0, 0, 0.21);
+}
+.nav_main ul li a:hover {
+    border-radius: 0 0 0 0;
+    padding: 5px 4px 5px 10px;
+}
+.nav_main ul {
+    width: 100%;
+    display: inline;
+    text-align: left;
+}
+.nav_main {
+    margin: 24px 0 0 0;
+}
+.proposed:before
+{
+    display:none;
+}
+}
+
+@media screen and (max-width: 640px){
+
+}
+@media screen and (max-width: 580px){
+.proposed_content h1::before,.proposed_content h1::after,.accommodations_content h1::before,.accommodations_content 
+h1::after,.galler_content h1::before,.galler_content h1::after,.about_content h1::before,.about_content h1::after
+{
+    display:none;
+}
+}
+
+@media screen and (max-width: 480px){
+
+.accommodations_content h1,.galler_content h1 {
+    font-size: 36px;
+}
+.hotel_icon
+{
+  top: -60px;
+}
+.contact_content {
+    margin-top: 0;
+}
+}
+
+@media screen and (max-width: 320px){
+
+}
+
